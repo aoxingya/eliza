@@ -1,4 +1,4 @@
-Project Name: TaskBot
+Project Name: TaskAI
 1. Project Overview
 TaskBot is a multifunctional smart assistant that combines rule-based conversation engines (similar to ELIZA) with API integration (inspired by Grub). It is designed to facilitate both natural language conversations and task execution, like fetching data or automating certain operations.
 
